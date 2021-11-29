@@ -1,2 +1,4 @@
 # Notes
-This is a repository for notes during my learning.&lt;br>&lt;br>这是一个存储我笔记的repo。
+This is a repository for notes during my learning.
+
+这是一个存储我笔记的repo。
